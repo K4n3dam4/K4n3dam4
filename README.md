@@ -65,5 +65,5 @@ Today I develop single page applications mostly using TypeScript and Next.js or 
 ### Github Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=K4n3dam4&theme=green_nur)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k4n3dam4&show_icons=true&theme=gotham)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k4n3dam4&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 ![GitSnake](https://github.com/K4n3dam4/K4n3dam4/blob/output/github-contribution-grid-snake.svg)
