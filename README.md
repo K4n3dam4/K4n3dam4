@@ -5,7 +5,7 @@
 ### About me
 
 I've discovered my passion for writing code 
-in high school when I was developing mods for video games.
+during high school while I was developing mods for video games.
 My first scripts switched lights on and off or killed players who had dared trying to enter the secret rooms in my mods without knowing the correct passphrase.
 Simple things, really :sweat_smile:  
   
