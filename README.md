@@ -4,7 +4,7 @@
 
 ### About me
 
-I discovered my passion for writing code when I was developing mods for video games in my high school years.
+I discovered my passion for writing code when I was developing mods for video games during my high school years.
 My first scripts switched lights on and off or killed players who had dared trying to enter the secret rooms in my mods. 
 Simple things, really 😄
   
