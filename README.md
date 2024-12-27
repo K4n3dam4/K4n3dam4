@@ -1,7 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=39D353&multiline=true&width=500&height=130&lines=const+greetings+%3D+'Hello+World';class+K4n3dam4+%7B;static+name+%3D+'Nils+Boehm';static+location+%3D+'Hamburg%2C+Germany';%7D)](https://git.io/typing-svg)
-
---- 
-
 ### About me 🤓
 
 I discovered my passion for writing code when I was developing mods for video games during my high school years.
